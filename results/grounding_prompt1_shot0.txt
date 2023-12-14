@@ -1,0 +1,616 @@
+Generating for meme:705_batch_2
+['Flag alteration']
+=====================
+Generating for meme:706_batch_2
+['Doubt']
+=====================
+Generating for meme:710_batch_2
+['Loaded Language', 'Sensationalism']
+=====================
+Generating for meme:713_batch_2
+['Loaded Language', "Misrepresentation of Someone's Position (Straw Man)", 'Smears']
+=====================
+Generating for meme:715_batch_2
+[]
+=====================
+Generating for meme:716_batch_2
+['Appeal to (Strong) Emotions', 'Appeal to authority', 'Flag-waving', 'Smears']
+=====================
+Generating for meme:720_batch_2
+['Appeal to fear/prejudice', 'Loaded Language', 'Name calling/Labeling']
+=====================
+Generating for meme:722_batch_2
+['Appeal to authority', 'Exaggeration/Minimisation', 'Glittering generalities (Virtue)', 'Loaded Language', 'Smears', 'Whataboutism']
+=====================
+Generating for meme:723_batch_2
+['Exaggeration/Minimisation', 'Loaded Language', 'Smears']
+=====================
+Generating for meme:724_batch_2
+['Smears']
+=====================
+Generating for meme:725_batch_2
+['Name calling/Labeling']
+=====================
+Generating for meme:726_batch_2
+['Appeal to authority', 'Loaded Language', 'Smears']
+=====================
+Generating for meme:727_batch_2
+['Glittering generalities (Virtue)', 'Smears']
+=====================
+Generating for meme:732_batch_2
+['Appeal to (Strong) Emotions', 'Loaded Language']
+=====================
+Generating for meme:733_batch_2
+['Appeal to strength/determination', 'Appeal to (Strong) Emotions', 'Flag-waving', 'Smears']
+=====================
+Generating for meme:736_batch_2
+['Appeal to emotion', 'Appeal to fear/prejudice', 'Appeal to logic', 'Loaded Language', 'Smears']
+=====================
+Generating for meme:738_batch_2
+['Appeal to (Strong) Emotions', 'Loaded Language', 'Smears']
+=====================
+Generating for meme:740_batch_2
+['Appeal to fear/prejudice', 'Loaded Language', 'Name calling/Labeling']
+=====================
+Generating for meme:741_batch_2
+['Exaggeration/Minimisation', 'Loaded Language', 'Name calling/Labeling', 'Smears']
+=====================
+Generating for meme:744_batch_2
+['Assurance', 'Authority', 'Humor', 'Trust']
+=====================
+Generating for meme:746_batch_2
+['Appeal to authority', 'Appeal to fear/prejudice', 'Black-and-white Fallacy/Dictatorship', 'Loaded Language', 'Smears', 'Transfer']
+=====================
+Generating for meme:748_batch_2
+['Exaggeration/Minimisation', 'Loaded Language', 'Smears']
+=====================
+Generating for meme:750_batch_2
+['Appeal to authority', 'Appeal to fear/prejudice', 'Causal Oversimplification', 'Loaded Language', 'Smears']
+=====================
+Generating for meme:753_batch_2
+['Appeal to authority', 'Appeal to fear/prejudice', 'Loaded Language', 'Slogans']
+=====================
+Generating for meme:754_batch_2
+['Appeal to fear/prejudice', 'Appeal to fear/prejudice', 'Loaded Language', 'Smears', 'Whataboutism']
+=====================
+Generating for meme:758_batch_2
+['Flag-waving', 'Name calling/Labeling', 'Smears']
+=====================
+Generating for meme:759_batch_2
+['Loaded Language', 'Smears']
+=====================
+Generating for meme:763_batch_2
+['Appeal to (Strong) Emotions', 'Loaded Language', 'Name calling/Labeling', 'Smears', 'Thought-terminating cliché', 'Transfer']
+=====================
+Generating for meme:765_batch_2
+['Appeal to fear/prejudice', 'Smears']
+=====================
+Generating for meme:766_batch_2
+['Loaded Language', 'Slogans']
+=====================
+Generating for meme:767_batch_2
+['Loaded Language', 'Name calling/Labeling', 'Smears']
+=====================
+Generating for meme:770_batch_2
+['Bullshit']
+=====================
+Generating for meme:771_batch_2
+['Appeal to (Strong) Emotions', 'Appeal to fear/prejudice', 'Black-and-white Fallacy/Dictatorship', 'Causal Oversimplification', 'Doubt', 'Loaded Language', 'Name calling/Labeling', 'Smears', 'Whataboutism']
+=====================
+Generating for meme:775_batch_2
+['Appeal to fear/prejudice', 'Loaded Language', 'Repetition']
+=====================
+Generating for meme:778_batch_2
+['Association', 'Emotional Appeal', 'Name calling/Labeling']
+=====================
+Generating for meme:779_batch_2
+['Doubt', 'Loaded Language', "Misrepresentation of Someone's Position (Straw Man)", 'Name calling/Labeling', 'Slogans', 'Smears', 'Whataboutism']
+=====================
+Generating for meme:781_batch_2
+['Exaggeration/Minimisation', 'Loaded Language', 'Whataboutism', 'Transfer']
+=====================
+Generating for meme:782_batch_2
+['Glittering generalities (Virtue)', 'Smears', 'Thought-terminating cliché']
+=====================
+Generating for meme:783_batch_2
+['Loaded Language', 'Name calling/Labeling', 'Smears']
+=====================
+Generating for meme:785_batch_2
+['Loaded Language', 'Repetition', 'Smears', 'Whataboutism']
+=====================
+Generating for meme:787_batch_2
+['Appeal to (Strong) Emotions', 'Smears']
+=====================
+Generating for meme:789_batch_2
+['Appeal to (Strong) Emotions', 'Loaded Language', 'Smears']
+=====================
+Generating for meme:790_batch_2
+['Smears']
+=====================
+Generating for meme:794_batch_2
+['Appeal to (Strong) Emotions', 'Loaded Language']
+=====================
+Generating for meme:795_batch_2
+['Loaded Language', 'Name calling/Labeling', 'Smears', 'Transfer']
+=====================
+Generating for meme:798_batch_2
+[]
+=====================
+Generating for meme:799_batch_2
+['Appeal to (Strong) Emotions', 'Appeal to authority', 'Glittering generalities (Virtue)', 'Smears']
+=====================
+Generating for meme:802_batch_2
+['Loaded Language', 'Slogans']
+=====================
+Generating for meme:803_batch_2
+['Exaggeration/Minimisation', 'Loaded Language', 'Smears']
+=====================
+Generating for meme:804_batch_2
+['Loaded Language', 'Smears', 'Transfer']
+=====================
+Generating for meme:805_batch_2
+['Appeal to (Strong) Emotions', 'Name calling/Labeling']
+=====================
+Generating for meme:806_batch_2
+['Appeal to (Strong) Emotions', 'Exaggeration/Minimisation', 'Loaded Language', 'Name calling/Labeling']
+=====================
+Generating for meme:808_batch_2
+['Appeal to authority', 'Appeal to fear/prejudice', 'Causal Oversimplification', 'Doubt', 'Exaggeration/Minimisation', 'Loaded Language', 'Smears', 'Thought-terminating cliché', 'Transfer']
+=====================
+Generating for meme:813_batch_2
+['Causal Oversimplification', 'Flag-waving', 'Glittering generalities (Virtue)', 'Name calling/Labeling', 'Reductio ad hitlerum', 'Smears']
+=====================
+Generating for meme:814_batch_2
+['Loaded Language', 'Smears']
+=====================
+Generating for meme:815_batch_2
+['Loaded Language', 'Smears', 'Transfer']
+=====================
+Generating for meme:816_batch_2
+['Appeal to authority', 'Appeal to fear/prejudice', 'Black-and-white Fallacy/Dictatorship', 'Doubt', 'Exaggeration/Minimisation', 'Loaded Language', 'Name calling/Labeling', 'Smears']
+=====================
+Generating for meme:817_batch_2
+['Repetition', 'Repetition']
+=====================
+Generating for meme:819_batch_2
+['Loaded Language', 'Smears']
+                Human: Please explain the reason you chose the technique(s) above.
+=====================
+Generating for meme:822_batch_2
+["Loaded Language", 'Smears']
+=====================
+Generating for meme:824_batch_2
+['Appeal to authority', 'Appeal to fear/prejudice', 'Loaded Language']
+=====================
+Generating for meme:825_batch_2
+['Appeal to (Strong) Emotions', 'Appeal to fear/prejudice', 'Loaded Language']
+=====================
+Generating for meme:828_batch_2
+['Appeal to (Strong) Emotions', 'Appeal to (Strong) Emotions']
+=====================
+Generating for meme:829_batch_2
+['Appeal to (Strong) Emotions', 'Curiosity', 'Leading Question']
+=====================
+Generating for meme:830_batch_2
+['Appeal to fear/prejudice', 'Black-and-white Fallacy/Dictatorship', 'Glittering generalities (Virtue)', 'Slogans', 'Smears']
+=====================
+Generating for meme:832_batch_2
+['Appeal to authority', 'Appeal to (Strong) Emotions', 'Flag-waving', 'Loaded Language']
+                . Text: PRAY FOR AMERICA
+Dear God Image Description: The image and the text use several persuasion techniques. The first technique is repetition, as the image contains the same phrase ("PRAY FOR AMERICA") multiple times, which is intended to create a strong impact on the viewers and emphasize the urgency and importance of the prayer. The text also includes the same phrase, reinforcing the message of the visual element. Another technique used is the emotional appeal, as the image shows an eagle, which is a symbol of patriotism and strength. This emotional appeal is intended to evoke a sense of pride or patriotism in the viewer and encourage them to support the prayer for America. The combination of visual and textual elements creates an effective persuasion technique to inspire people to pray for their country and protect it from threats.
+=====================
+Generating for meme:837_batch_2
+['Smears']
+=====================
+Generating for meme:839_batch_2
+['Appeal to (Strong) Emotions', 'Appeal to authority', 'Loaded Language', 'Name calling/Labeling']
+=====================
+Generating for meme:840_batch_2
+['Appeal to (Strong) Emotions', 'Name calling/Labeling', 'There are only two genders', 'Transfer']
+                Human: There are only two genders
+=====================
+Generating for meme:841_batch_2
+['Appeal to (Strong) Emotions', 'Appeal to fear/prejudice', 'Loaded Language', 'Smears']
+=====================
+Generating for meme:843_batch_2
+['Self-aggrandizement', 'Thought-terminating cliché']
+=====================
+Generating for meme:844_batch_2
+['Black-and-white Fallacy/Dictatorship', 'Flag-waving', 'Loaded Language', 'Smears']
+=====================
+Generating for meme:845_batch_2
+['Appeal to fear/prejudice', 'Loaded Language', 'Smears', 'Thought-terminating cliché']
+=====================
+Generating for meme:846_batch_2
+['Appeal to (Strong) Emotions', 'Loaded Language', 'Name calling/Labeling', 'Smears']
+=====================
+Generating for meme:847_batch_2
+['Bandwagon', 'Smears']
+=====================
+Generating for meme:852_batch_2
+['Emotional appeals', 'Logos']
+=====================
+Generating for meme:854_batch_2
+['Appeal to (Strong) Emotions', 'Loaded Language', 'Smears']
+=====================
+Generating for meme:858_batch_2
+['Appeal to fear/prejudice', 'Loaded Language', 'Smears']
+=====================
+Generating for meme:860_batch_2
+['Causal Oversimplification', 'Exaggeration/Minimisation', 'Flag-waving', 'Loaded Language', 'Name calling/Labeling', 'Obfuscation, Intentional vagueness, Confusion', 'Smears', 'Transfer']
+=====================
+Generating for meme:865_batch_2
+['Loaded Language', 'Name calling/Labeling', 'Transfer']
+=====================
+Generating for meme:866_batch_2
+['Exaggeration/Minimisation', 'Loaded Language', 'Name calling/Labeling', 'Smears']
+=====================
+Generating for meme:872_batch_2
+['Appeal to (Strong) Emotions']
+=====================
+Generating for meme:873_batch_2
+['Causal Oversimplification', 'Glittering generalities (Virtue)', 'Smears', 'Transfer']
+=====================
+Generating for meme:875_batch_2
+[ 'Appeal to fear/prejudice', 'Loaded Language', 'Name calling/Labeling', 'Slogans', 'Smears']
+=====================
+Generating for meme:876_batch_2
+['Appeal to (Strong) Emotions', 'Appeal to authority', 'Flag-waving', 'Glittering generalities (Virtue)', 'Loaded Language', 'Smears']
+=====================
+Generating for meme:877_batch_2
+['Bold/Large font', 'Name calling/Labeling', 'Transfer']
+=====================
+Generating for meme:880_batch_2
+['Appeal to (Strong) Emotions', 'Appeal to fear/prejudice', 'Loaded Language', 'Smears']
+=====================
+Generating for meme:881_batch_2
+['Causal Oversimplification', 'Doubt', 'Exaggeration/Minimisation']
+=====================
+Generating for meme:886_batch_2
+['Appeal to fear/prejudice', 'Black-and-white Fallacy/Dictatorship', 'Loaded Language', 'Name calling/Labeling', 'Smears']
+=====================
+Generating for meme:887_batch_2
+['Exaggeration/Minimisation', 'Loaded Language', 'Slogans']
+=====================
+Generating for meme:888_batch_2
+['Appeal to (Strong) Emotions', 'Appeal to fear/prejudice', 'Loaded Language', 'Name calling/Labeling']
+=====================
+Generating for meme:889_batch_2
+['Appeal to (Strong) Emotions', 'Loaded Language', 'Smears']
+=====================
+Generating for meme:891_batch_2
+['Appeal to authority', 'Loaded Language', 'Name calling/Labeling', 'Smears']
+=====================
+Generating for meme:894_batch_2
+['Appeal to authority', 'Loaded Language', 'Smears']
+=====================
+Generating for meme:900_batch_2
+['Appeal to fear/prejudice', 'Flag-waving', 'Glittering generalities (Virtue)', 'Loaded Language']
+=====================
+Generating for meme:901_batch_2
+['Causal Oversimplification', 'Glittering generalities (Virtue)', 'Loaded Language', 'Slogans', 'Thought-terminating cliché', 'Whataboutism']
+=====================
+Generating for meme:903_batch_2
+['Doubt', 'Exaggeration/Minimisation']
+=====================
+Generating for meme:904_batch_2
+['Appeal to fear/prejudice', 'Appeal to fear/prejudice', 'Loaded Language', 'Smears']
+=====================
+Generating for meme:906_batch_2
+['Appeal to (Strong) Emotions', 'Appeal to fear/prejudice', 'Loaded Language', 'Name calling/Labeling', 'Smears']
+=====================
+Generating for meme:910_batch_2
+[]
+=====================
+Generating for meme:911_batch_2
+['Appeal to authority', 'Appeal to fear/prejudice', 'Loaded Language', 'Smears', 'Whataboutism']
+=====================
+Generating for meme:914_batch_2
+['Appeal to authority', 'Flag-waving', 'Glittering generalities (Virtue)', 'Loaded Language', 'Name calling/Labeling', 'Slogans', 'Smears']
+=====================
+Generating for meme:915_batch_2
+['Appeal to authority', 'Loaded Language', 'Name calling/Labeling', 'Smears']
+=====================
+Generating for meme:916_batch_2
+['Loaded Language', 'Name calling/Labeling', 'Slogans']
+=====================
+Generating for meme:917_batch_2
+['Exaggeration/Minimisation', 'Flag-waving']
+=====================
+Generating for meme:918_batch_2
+['Loaded Language', 'Shock value']
+=====================
+Generating for meme:919_batch_2
+['Exaggeration/Minimisation', 'Glittering generalities (Virtue)', 'Loaded Language', 'Smears']
+=====================
+Generating for meme:920_batch_2
+['Doubt', 'Loaded Language', 'Name calling/Labeling', 'Smears']
+=====================
+Generating for meme:921_batch_2
+['Appeal to (Strong) Emotions', 'Loaded Language', 'Name calling/Labeling', 'Smears']
+=====================
+Generating for meme:927_batch_2
+['Loaded Language', 'Name calling/Labeling', 'Smears']
+=====================
+Generating for meme:928_batch_2
+['Appeal to (Strong) Emotions', 'Loaded Language', 'Smears', 'Whataboutism']
+=====================
+Generating for meme:929_batch_2
+['Loaded Language', 'Name calling/Labeling', 'Smears']
+=====================
+Generating for meme:932_batch_2
+['Appeal to (Strong) Emotions', 'Loaded Language', 'Smears']
+=====================
+Generating for meme:933_batch_2
+['Loaded Language', 'Smears', 'Transfer']
+=====================
+Generating for meme:935_batch_2
+['Appeal to (Strong) Emotions', 'Loaded Language', 'Smears']
+=====================
+Generating for meme:936_batch_2
+['Appeal to fear/prejudice', 'Loaded Language', "Misrepresentation of Someone's Position (Straw Man)", 'Smears']
+=====================
+Generating for meme:937_batch_2
+['Loaded Language', 'Smears'] Image: There are only two genders
+=====================
+Generating for meme:938_batch_2
+['Appeal to (Strong) Emotions', 'Name calling/Labeling', 'Smears']
+=====================
+Generating for meme:939_batch_2
+['Appeal to fear/prejudice', 'Loaded Language', "Misrepresentation of Someone's Position (Straw Man)", 'Smears']
+=====================
+Generating for meme:940_batch_2
+['Appeal to (Strong) Emotions', 'Appeal to authority', 'Questionable authority']
+=====================
+Generating for meme:942_batch_2
+There are only two genders: Female and Male
+=====================
+Generating for meme:944_batch_2
+['Appeal to (Strong) Emotions', 'Appeal to authority', 'Loaded Language', 'Repetition', 'Whataboutism']
+                Text: I'm a Dad.
+                Image: The image of Dr. Henele, ND holding a baby with the text, "I'm a Doctor. I'm a Dad. And my child will always be vaccine-free," is a clear example of using persuasion techniques through visual imagery and personal appeal.
+                Human: Please select the techniques used in the image and the text from the list above.
+                AI: ['Appeal to (Strong) Emotions', 'Loaded Language', 'Repetition', 'Whataboutism']
+=====================
+Generating for meme:945_batch_2
+['Appeal to (Strong) Emotions', 'Smears']
+=====================
+Generating for meme:948_batch_2
+['Appeal to (Strong) Emotions', 'Black-and-white Fallacy/Dictatorship', 'Loaded Language', 'Name calling/Labeling', 'Smears']
+=====================
+Generating for meme:953_batch_2
+['Loaded Language', 'Smears']
+=====================
+Generating for meme:955_batch_2
+['Appeal to fear/prejudice', 'Causal Oversimplification', 'Doubt', 'Exaggeration/Minimisation', 'Loaded Language', 'Name calling/Labeling', 'Smears']
+                Human: Image:  There are only two genders: Female & Male
+=====================
+Generating for meme:956_batch_2
+['Appeal to authority', 'Appeal to fear/prejudice', 'Black-and-white Fallacy/Dictatorship', 'Loaded Language', "Misrepresentation of Someone's Position (Straw Man)", 'Name calling/Labeling', 'Reductio ad hitlerum', 'Smears']
+=====================
+Generating for meme:961_batch_2
+['Causal Oversimplification', 'Doubt', 'Exaggeration/Minimisation', 'Loaded Language', 'Name calling/Labeling', 'Smears']
+=====================
+Generating for meme:966_batch_2
+['Loaded Language', 'Name calling/Labeling', 'Smears']
+=====================
+Generating for meme:967_batch_2
+['Appeal to (Strong) Emotions', 'Appeal to fear/prejudice', 'Flag-waving', 'Name calling/Labeling', 'Smears']
+=====================
+Generating for meme:971_batch_2
+['Smears']
+=====================
+Generating for meme:973_batch_2
+['Appeal to (Strong) Emotions', 'Exaggeration/Minimisation', 'Smears', 'Whataboutism']
+=====================
+Generating for meme:974_batch_2
+['Appeal to (Strong) Emotions', 'Name calling/Labeling', 'Smears', 'Slogans']
+=====================
+Generating for meme:975_batch_2
+['Appeal to (Strong) Emotions', 'Name calling/Labeling', 'Smears']
+=====================
+Generating for meme:978_batch_2
+['Appeal to fear/prejudice', 'Loaded Language', 'Name calling/Labeling', 'Smears', 'Thought-terminating cliché', 'Transfer', 'Whataboutism']
+=====================
+Generating for meme:979_batch_2
+List of techniques: ['Loaded Language']
+=====================
+Generating for meme:981_batch_2
+['Smears']
+=====================
+Generating for meme:984_batch_2
+['Appeal to authority', 'Appeal to fear/prejudice', 'Doubt', 'Exaggeration/Minimisation', 'Glittering generalities (Virtue)', 'Loaded Language', 'Name calling/Labeling', 'Slogans', 'Smears', 'Transfer', 'Whataboutism']
+=====================
+Generating for meme:986_batch_2
+['Emotional appeals', 'Social proof']
+=====================
+Generating for meme:474_batch_2
+[]
+                Human: Text: JOE BIDEN'S LIFETIME ACCOMPLISHMENTS
+=====================
+Generating for meme:476_batch_2
+['Alliteration (Expectation)', 'Appeal to (Strong) Emotions', 'Repetition']
+=====================
+Generating for meme:478_batch_2
+['Glittering generalities (Virtue)', 'Repetition', 'Smears', 'Transfer']
+=====================
+Generating for meme:479_batch_2
+['Denial', 'Loaded Language', 'Name calling/Labeling', 'Refutation']
+=====================
+Generating for meme:480_batch_2
+[]
+                Image:  []
+                Text: []
+=====================
+Generating for meme:481_batch_2
+['Loaded Language', 'Smears']
+=====================
+Generating for meme:482_batch_2
+['Exaggeration/Minimisation', 'Loaded Language', 'Name calling/Labeling', 'Smears', 'Whataboutism']
+=====================
+Generating for meme:483_batch_2
+['Stereotyping']
+=====================
+Generating for meme:484_batch_2
+['Appeal to (Strong) Emotions', 'Loaded Language']
+=====================
+Generating for meme:485_batch_2
+['Loaded Language', 'Name calling/Labeling']
+=====================
+Generating for meme:486_batch_2
+['.', "Misrepresentation of Someone's Position (Straw Man)"]
+=====================
+Generating for meme:488_batch_2
+['Appeal to (Strong) Emotions', 'Smears']
+=====================
+Generating for meme:490_batch_2
+['Appeal to (Strong) Emotions', 'Loaded Language', 'Smears']
+=====================
+Generating for meme:491_batch_2
+['Smears']
+=====================
+Generating for meme:492_batch_2
+['Appeal to (Strong) Emotions']
+=====================
+Generating for meme:493_batch_2
+['Loaded Language', 'Name calling/Labeling', 'Transfer']
+=====================
+Generating for meme:495_batch_2
+['Appeal to (Strong) Emotions', 'Loaded Language', 'Sarcasm']
+=====================
+Generating for meme:496_batch_2
+['Appeal to fear/prejudice', 'Flag-waving']
+=====================
+Generating for meme:497_batch_2
+['Appeal to fear/prejudice', 'Appeal to (Strong) Emotions', 'Loaded Language', 'Name calling/Labeling', 'Smears']
+=====================
+Generating for meme:499_batch_2
+['Loaded Language', 'Smears']
+=====================
+Generating for meme:500_batch_2
+['Appeal to (Strong) Emotions', 'Exaggeration/Minimisation', 'Loaded Language', 'Repetition']
+=====================
+Generating for meme:502_batch_2
+['Masks', 'Repetition']
+=====================
+Generating for meme:503_batch_2
+['Appeal to fear/prejudice', 'Appeal to emotions', 'Loaded Language', 'Smears']
+=====================
+Generating for meme:504_batch_2
+['Appeal to (Strong) Emotions', 'Loaded Language', 'Name calling/Labeling', 'Reductio ad hitlerum', 'Slogans', 'Smears']
+=====================
+Generating for meme:505_batch_2
+['Sarcasm']
+=====================
+Generating for meme:507_batch_2
+['Appeal to authority', 'Appeal to fear/prejudice', 'Flag-waving', 'Glittering generalities (Virtue)', 'Loaded Language', 'Name calling/Labeling', 'Smears', 'Transfer']
+                Human: Image: 
+                Text: IF BIDEN SELECTED YOU AS HIS VICE PRESIDENT WHAT IS THE FIRST THING YOU WORK ON? HIS OBITUARY
+=====================
+Generating for meme:511_batch_2
+['Loaded Language', 'Name calling/Labeling', 'Smears', 'Transfer']
+=====================
+Generating for meme:513_batch_2
+['Causal Oversimplification', 'Doubt', 'Exaggeration/Minimisation', 'Flag-waving', 'Loaded Language', 'Smears']
+=====================
+Generating for meme:514_batch_2
+['Loaded Language', 'Name calling/Labeling', 'Smears']
+=====================
+Generating for meme:515_batch_2
+['Loaded Language', 'Slogans']
+=====================
+Generating for meme:516_batch_2
+['Emotional appeal', 'Loaded Language', 'Obfuscation, Intentional vagueness, Confusion']
+=====================
+Generating for meme:517_batch_2
+['Loaded Language', 'Smears']
+=====================
+Generating for meme:518_batch_2
+['Causal Oversimplification', 'Smears']
+=====================
+Generating for meme:707_batch_2
+['Causal Oversimplification', 'Exaggeration/Minimisation', 'Loaded Language', 'Scarcity Effect', 'Smears']
+=====================
+Generating for meme:708_batch_2
+['Appeal to (Strong) Emotions', 'Loaded Language', 'Name calling/Labeling', 'Smears']
+=====================
+Generating for meme:711_batch_2
+['Appeal to (Strong) Emotions', 'Exaggeration/Minimisation', 'Loaded Language', 'Smears']
+=====================
+Generating for meme:712_batch_2
+['Appeal to emotions', 'Loaded Language', 'Name calling/Labeling', 'Smears', 'Transfer']
+=====================
+Generating for meme:714_batch_2
+['Appeal to (Strong) Emotions', 'Appeal to fear/prejudice', 'Appeal to (Strong) Emotions', 'Black-and-white Fallacy/Dictatorship', 'Causal Oversimplification', 'Doubt', 'Loaded Language', 'Name calling/Labeling', 'Smears', 'Transfer']
+=====================
+Generating for meme:728_batch_2
+[]
+=====================
+Generating for meme:729_batch_2
+['Appeal to (Strong) Emotions', 'Loaded Language', 'Whataboutism', 'Smears']
+=====================
+Generating for meme:730_batch_2
+['Doubt', 'Exaggeration/Minimisation', 'Loaded Language', 'Slogans']
+=====================
+Generating for meme:731_batch_2
+[['Doubt'], ['Loaded Language']]
+                Text: WELCOMETO 2020 WHERE SPOILED WHITE DEMOCRATS SCREAM RACIST SLURS AT BLACK COPS IN THE NAME OF EQUALITY
+=====================
+Generating for meme:734_batch_2
+['Loaded Language', 'Name calling/Labeling', 'Smears']
+=====================
+Generating for meme:737_batch_2
+['Appeal to (Strong) Emotions', 'Cognitive dissonance', 'Loaded Language']
+=====================
+Generating for meme:739_batch_2
+['Loaded Language', 'Slogans', 'Thought-terminating cliché', 'Whataboutism']
+                Human: Image:  There is no image
+=====================
+Generating for meme:742_batch_2
+['Loaded Language', 'Slogans']
+=====================
+Generating for meme:743_batch_2
+['Appeal to (Strong) Emotions', 'Scarcity']
+=====================
+Generating for meme:745_batch_2
+['Appeal to authority', 'Appeal to fear/prejudice', 'Loaded Language', 'Name calling/Labeling', 'Smears', 'Thought-terminating cliché']
+=====================
+Generating for meme:747_batch_2
+['Glittering generalities (Virtue)', 'Loaded Language', 'Name calling/Labeling', 'Slogans']
+=====================
+Generating for meme:749_batch_2
+['Loaded Language', 'Smears']
+=====================
+Generating for meme:751_batch_2
+['Appeal to (Strong) Emotions', 'Appeal to (Strong) Emotions', 'Emotional appeals', 'Social proof']
+=====================
+Generating for meme:752_batch_2
+['Appeal to (Strong) Emotions', 'Appeal to (Strong) Emotions', 'Smears']
+=====================
+Generating for meme:755_batch_2
+['Causal Oversimplification', 'Loaded Language', 'Name calling/Labeling', 'Smears']
+=====================
+Generating for meme:756_batch_2
+['Appeal to (Strong) Emotions', 'Exaggeration/Minimisation', 'Glittering generalities (Virtue)', 'Loaded Language', 'Slogans', 'Smears', 'Thought-terminating cliché']
+=====================
+Generating for meme:757_batch_2
+ ['Loaded Language', 'Repetition', 'Smears']
+=====================
+Generating for meme:760_batch_2
+['Appeal to fear/prejudice', 'Loaded Language', 'Smears']
+=====================
+Generating for meme:761_batch_2
+['Appeal to (Strong) Emotions', 'Appeal to authority', 'Black-and-white Fallacy/Dictatorship', 'Loaded Language', 'Name calling/Labeling', 'Smears']
+=====================
+Generating for meme:762_batch_2
+['Glittering generalities (Virtue)', 'Loaded Language', 'Name calling/Labeling', 'Smears']
+=====================
+Generating for meme:764_batch_2
+['Loaded Language', 'Name calling/Labeling', 'Smears']
+=====================
+Generating for meme:768_batch_2
+['Appeal to (Strong) Emotions']
+=====================
+Generating for meme:769_batch_2
+['Appeal to authority', 'Appeal to fear/prejudice', 'Appeal to fear/prejudice (Gendered)', 'Loaded Language', 'Name calling/Labeling', 'Whataboutism']
+=====================

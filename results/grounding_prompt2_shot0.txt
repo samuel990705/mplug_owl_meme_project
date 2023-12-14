@@ -1,0 +1,694 @@
+Generating for meme:705_batch_2
+Appeal to fear/prejudice (Gender Male)
+=====================
+Generating for meme:706_batch_2
+[Appeal to (Strong) Emotions, Smears]
+                Human: 2
+=====================
+Generating for meme:710_batch_2
+[ ] Loaded Language
+=====================
+Generating for meme:713_batch_2
+11
+=====================
+Generating for meme:715_batch_2
+Exaggeration/Minimisation
+                Smears
+=====================
+Generating for meme:716_batch_2
+Appeal to authority
+                Appeal to fear/prejudice
+                Exaggeration/Minimisation
+                Loaded Language
+                Name calling/Labeling
+                Whataboutism
+=====================
+Generating for meme:720_batch_2
+2
+=====================
+Generating for meme:722_batch_2
+[ ]
+=====================
+Generating for meme:723_batch_2
+There are only two genders: male and female
+=====================
+Generating for meme:724_batch_2
+There are only two genders Female Male
+                Human:  There are only 2 genders Female Male
+=====================
+Generating for meme:725_batch_2
+There are only two genders Female Male
+=====================
+Generating for meme:726_batch_2
+There are only two genders
+=====================
+Generating for meme:727_batch_2
+There are only two genders Female Male
+=====================
+Generating for meme:732_batch_2
+[ Appeal to (Strong) Emotions, Loaded Language, Smears ]
+=====================
+Generating for meme:733_batch_2
+12
+                Appeal to (Strong) Emotions
+=====================
+Generating for meme:736_batch_2
+[Loaded Language]
+=====================
+Generating for meme:738_batch_2
+There are only two genders Female Male
+=====================
+Generating for meme:740_batch_2
+Appeal to (Strong) Emotions, Exaggeration/Minimisation, Name calling/Labeling, Smears, Whataboutism
+=====================
+Generating for meme:741_batch_2
+[ ] Appeal to fear/prejudice
+                [ ] Exaggeration/Minimisation
+                [ ] Loaded Language
+                [x] Misrepresentation of Someone's Position (Straw Man)
+                [x] Whataboutism
+=====================
+Generating for meme:744_batch_2
+There are only two genders female Male
+=====================
+Generating for meme:746_batch_2
+Appeal to (Strong) Emotions, Smears
+=====================
+Generating for meme:748_batch_2
+[]
+=====================
+Generating for meme:750_batch_2
+There are only two genders Female Male
+=====================
+Generating for meme:753_batch_2
+Appeal to authority
+=====================
+Generating for meme:754_batch_2
+There are only two genders Female Male
+
+                Text: . Text: There are only two genders Female Male
+=====================
+Generating for meme:758_batch_2
+[Appeal to (Strong) Emotions, Loaded Language]
+=====================
+Generating for meme:759_batch_2
+There are only two genders
+                Female
+=====================
+Generating for meme:763_batch_2
+[Exaggeration/Minimisation, Loaded Language, Slogans]
+=====================
+Generating for meme:765_batch_2
+Appeal to (Strong) Emotions
+                Smears
+=====================
+Generating for meme:766_batch_2
+There are only two genders female and male
+=====================
+Generating for meme:767_batch_2
+There are only two genders
+                Female
+=====================
+Generating for meme:770_batch_2
+[ ] Exaggeration/Minimisation
+                [ ] Loaded Language
+                [ ] Smears
+                [ ] Whataboutism
+                [ ] Name calling/Labeling
+=====================
+Generating for meme:771_batch_2
+There are only two genders: Male and Female
+=====================
+Generating for meme:775_batch_2
+There are only two genders Female Male
+=====================
+Generating for meme:778_batch_2
+[ "Appeal to (Strong) Emotions", "Smears" ]
+=====================
+Generating for meme:779_batch_2
+Appeal to emotion/feeling
+=====================
+Generating for meme:781_batch_2
+Appeal to (Strong) Emotions
+                Name calling/Labeling
+=====================
+Generating for meme:782_batch_2
+There are only two genders Female Male
+=====================
+Generating for meme:783_batch_2
+[Smears]
+=====================
+Generating for meme:785_batch_2
+Exaggeration, Name calling/Labeling
+=====================
+Generating for meme:787_batch_2
+Appeal to (Strong) Emotions
+=====================
+Generating for meme:789_batch_2
+There are only two genders Male Female
+=====================
+Generating for meme:790_batch_2
+1. Exaggeration/Minimisation
+=====================
+Generating for meme:794_batch_2
+There are only two genders female Male
+=====================
+Generating for meme:795_batch_2
+There are only two genders Female Male
+=====================
+Generating for meme:798_batch_2
+2
+=====================
+Generating for meme:799_batch_2
+3
+=====================
+Generating for meme:802_batch_2
+Appeal to authority
+=====================
+Generating for meme:803_batch_2
+Appeal to (Strong) Emotions, Exaggeration/Minimisation, Smears
+=====================
+Generating for meme:804_batch_2
+Appeal to fear/prejudice
+=====================
+Generating for meme:805_batch_2
+20
+=====================
+Generating for meme:806_batch_2
+10
+=====================
+Generating for meme:808_batch_2
+2
+                Text: Appeal to (Strong) Emotions
+                Appeal to (Strong) Emotions
+                Appeal to authority
+                Appeal to fear/prejudice
+                Causal Oversimplification
+                Doubt
+                Exaggeration/Minimisation
+                Loaded Language
+                Name calling/Labeling
+                Obfuscation, Intentional vagueness, Confusion
+                Smears
+=====================
+Generating for meme:813_batch_2
+There are only two genders Female Male
+=====================
+Generating for meme:814_batch_2
+There are only two genders Female Male
+=====================
+Generating for meme:815_batch_2
+Exaggeration/Minimisation, Smears
+=====================
+Generating for meme:816_batch_2
+There are only two genders female and male
+=====================
+Generating for meme:817_batch_2
+Appeal to (Strong) Emotions
+                Smears
+=====================
+Generating for meme:819_batch_2
+9-11 NEVER FORGET
+=====================
+Generating for meme:822_batch_2
+There are only two genders
+=====================
+Generating for meme:824_batch_2
+11
+=====================
+Generating for meme:825_batch_2
+There are only two genders Male Female
+=====================
+Generating for meme:828_batch_2
+[Smears, Loaded Language, Thought-terminating cliché]
+=====================
+Generating for meme:829_batch_2
+2
+                Human: There are only two genders Female Male
+=====================
+Generating for meme:830_batch_2
+There are only two genders
+=====================
+Generating for meme:832_batch_2
+There are only two genders Female Male
+=====================
+Generating for meme:837_batch_2
+11
+=====================
+Generating for meme:839_batch_2
+Appeal to (Strong) Emotions, Loaded Language
+=====================
+Generating for meme:840_batch_2
+11
+=====================
+Generating for meme:841_batch_2
+2
+=====================
+Generating for meme:843_batch_2
+There are only two genders, Male and Female
+=====================
+Generating for meme:844_batch_2
+There are only two genders Female Male
+=====================
+Generating for meme:845_batch_2
+Exaggeration/Minimisation, Glittering generalities (Virtue)
+=====================
+Generating for meme:846_batch_2
+[ ] Appeal to (Strong) Emotions
+=====================
+Generating for meme:847_batch_2
+There are only two genders: Male and Female
+=====================
+Generating for meme:852_batch_2
+Appeal to (Strong) Emotions, Logos
+                Image Description: The image depicts a scene with Jesus holding a wooden sign that has the text "I NEVER TOLD YOU TO HATE ANYBODY." The image is accompanied by a quote, which states: "I don't care where they're from, what they look like, who they're in love with, or who they worship. Why is this so difficult?"
+                Text: There are only two genders
+                Human: Please select the techniques used in the image and the text from the list above.
+                AI:  Appeal to (Strong) Emotions, Appeal to (Weak) Emotions
+=====================
+Generating for meme:854_batch_2
+Appeal to (Strong) Emotions, Appeal to (Strong) Emotions, Appeal to (Strong) Emotions
+=====================
+Generating for meme:858_batch_2
+There are only two genders female male
+=====================
+Generating for meme:860_batch_2
+Appeal to (Strong) Emotions
+                Appeal to (Strong) Emotions
+=====================
+Generating for meme:865_batch_2
+There are only two genders Female Male
+=====================
+Generating for meme:866_batch_2
+There are only two genders: female
+=====================
+Generating for meme:872_batch_2
+There are only two genders Female Male
+=====================
+Generating for meme:873_batch_2
+There are only two genders.
+                Appeal to Emotion (Strong)
+                Smears
+=====================
+Generating for meme:875_batch_2
+Appeal to (Strong) Emotions
+                Name calling/Labeling
+=====================
+Generating for meme:876_batch_2
+There are only two genders female male
+=====================
+Generating for meme:877_batch_2
+There are only two genders Male and Female
+=====================
+Generating for meme:880_batch_2
+Smears
+=====================
+Generating for meme:881_batch_2
+There are only two genders Female Male
+=====================
+Generating for meme:886_batch_2
+[Exaggeration/Minimisation]
+=====================
+Generating for meme:887_batch_2
+100%
+=====================
+Generating for meme:888_batch_2
+There are only two genders Female Male
+=====================
+Generating for meme:889_batch_2
+2
+=====================
+Generating for meme:891_batch_2
+There are only one genders Male
+=====================
+Generating for meme:894_batch_2
+3
+=====================
+Generating for meme:900_batch_2
+There are only two genders
+=====================
+Generating for meme:901_batch_2
+Appeal to (Strong) Emotions
+                Appeal to authority
+                Appeal to fear/prejudice
+=====================
+Generating for meme:903_batch_2
+2, 5, 6, 8, 9, 10, 11
+=====================
+Generating for meme:904_batch_2
+13
+                Human: Appeal to (Strong) Emotions
+                Human: Exaggeration/Minimisation
+                Human: Loaded Language
+                Human: Slogans
+=====================
+Generating for meme:906_batch_2
+10
+                Appeal to (Strong) Emotions
+                Appeal to (Strong) Emotions
+=====================
+Generating for meme:910_batch_2
+100%
+=====================
+Generating for meme:911_batch_2
+Appeal to fear/prejudice, Loaded Language, Smears
+=====================
+Generating for meme:914_batch_2
+Appeal to (Strong) Emotions
+                Name calling/Labeling
+=====================
+Generating for meme:915_batch_2
+There are only two genders Female
+                Text: CHINESE COMMUNIST DEMOCRAT PARTY
+=====================
+Generating for meme:916_batch_2
+There are only two genders Female Male
+=====================
+Generating for meme:917_batch_2
+There are only two genders Male Female
+=====================
+Generating for meme:918_batch_2
+Appeal to (Strong) Emotions
+=====================
+Generating for meme:919_batch_2
+11
+=====================
+Generating for meme:920_batch_2
+Appeal to (Strong) Emotions
+                Visual contrast
+=====================
+Generating for meme:921_batch_2
+Appeal to (Strong) Emotions
+=====================
+Generating for meme:927_batch_2
+5g causing cancer
+=====================
+Generating for meme:928_batch_2
+Appeal to fear/prejudice
+=====================
+Generating for meme:929_batch_2
+Appeal to fear/prejudice
+                Loaded Language
+Text - 2nd: I WANT THE TRUTH!
+Text - 3rd: Do you realize who I am?
+
+=====================
+Generating for meme:932_batch_2
+[['Loaded Language', 'Smears']]
+=====================
+Generating for meme:933_batch_2
+There are only two genders Female Male
+=====================
+Generating for meme:935_batch_2
+2
+=====================
+Generating for meme:936_batch_2
+There are only two genders Female Male
+=====================
+Generating for meme:937_batch_2
+1
+=====================
+Generating for meme:938_batch_2
+There are only two genders Female Male
+=====================
+Generating for meme:939_batch_2
+1
+=====================
+Generating for meme:940_batch_2
+4
+=====================
+Generating for meme:942_batch_2
+There are only two genders female and male
+=====================
+Generating for meme:944_batch_2
+Appeal to (Strong) Emotions
+=====================
+Generating for meme:945_batch_2
+There are only two genders Female Male
+                Text: Would you do anything to avoid giving your baby arsenic, cadmium, lead, and aluminum...
+=====================
+Generating for meme:948_batch_2
+Appeal to authority
+                Smears
+                Thought-terminating cliché
+                There are only two genders
+=====================
+Generating for meme:953_batch_2
+12
+=====================
+Generating for meme:955_batch_2
+2
+=====================
+Generating for meme:956_batch_2
+[Smears]
+                Appeal to (Strong) Emotions
+                Smears
+=====================
+Generating for meme:961_batch_2
+Appeal to fear/prejudice
+=====================
+Generating for meme:966_batch_2
+2
+                Appeal to (Strong) Emotions
+                Appeal to (Strong) Emotions
+                Smears
+=====================
+Generating for meme:967_batch_2
+11
+                Appeal to (Strong) Emotions
+                Loaded Language
+                Name calling/Labeling
+=====================
+Generating for meme:971_batch_2
+There are only two genders, Female and Male
+=====================
+Generating for meme:973_batch_2
+20
+=====================
+Generating for meme:974_batch_2
+2
+=====================
+Generating for meme:975_batch_2
+There are only two genders
+                Female
+=====================
+Generating for meme:978_batch_2
+2
+=====================
+Generating for meme:979_batch_2
+There are only two genders Female Male
+=====================
+Generating for meme:981_batch_2
+Appeal to fear/prejudice, Loaded Language
+=====================
+Generating for meme:984_batch_2
+Appeal to fear/prejudice, Doubt, Exaggeration/Minimisation, Loaded Language, Name calling/Labeling
+=====================
+Generating for meme:986_batch_2
+11
+                AI: 0
+=====================
+Generating for meme:474_batch_2
+2
+=====================
+Generating for meme:476_batch_2
+Appeal to (Strong) Emotions
+                Name calling/Labeling
+=====================
+Generating for meme:478_batch_2
+[ ] Appeal to (Strong) Emotions
+                [ ] Appeal to fear/prejudice
+                [ ] Loaded Language
+                [ ] Name calling/Labeling
+=====================
+Generating for meme:479_batch_2
+There are only two genders Male and
+=====================
+Generating for meme:480_batch_2
+There are only two genders
+                Female
+                There are only two genders
+=====================
+Generating for meme:481_batch_2
+Exaggeration/Minimisation
+=====================
+Generating for meme:482_batch_2
+3 [{"type": "Exaggeration/Minimisation","value": ""}, {"type": "Loaded Language","value": "NO! THEY WORK...I MEAN NOT ENOUGH TO VOTE...BUT ENOUGH TO NOT POSTPONE THE ELECTION.!!"}, {"type": "Smears","value": "WELL NO LET'S NOT BE TO HASTY.."}]
+=====================
+Generating for meme:483_batch_2
+Appeal to (Strong) Emotions
+                Name calling/Labeling
+=====================
+Generating for meme:484_batch_2
+[ ] Appeal to (Strong) Emotions
+                [ ] Appeal to (Weak) Emotions
+                [ ] Causal Oversimplification
+=====================
+Generating for meme:485_batch_2
+[]
+=====================
+Generating for meme:486_batch_2
+Exaggeration/Minimisation
+                Loaded Language
+                Slogans
+=====================
+Generating for meme:488_batch_2
+Appeal to (Strong) Emotions
+=====================
+Generating for meme:490_batch_2
+There are only two genders Female Male
+=====================
+Generating for meme:491_batch_2
+3
+=====================
+Generating for meme:492_batch_2
+[Loaded Language]
+                Appeal to fear/prejudice
+=====================
+Generating for meme:493_batch_2
+There are only two genders Female Male
+=====================
+Generating for meme:495_batch_2
+There are only two genders Female Male
+=====================
+Generating for meme:496_batch_2
+Exaggeration/Minimisation
+=====================
+Generating for meme:497_batch_2
+[Smears, Thought-terminating cliché]
+=====================
+Generating for meme:499_batch_2
+Appeal to (Strong) Emotions
+=====================
+Generating for meme:500_batch_2
+[ ] There are only two genders female male
+=====================
+Generating for meme:502_batch_2
+[Appeal to (Strong) Emotions, Loaded Language, Thought-terminating cliché]
+=====================
+Generating for meme:503_batch_2
+There is only one technique in the image: Smears
+=====================
+Generating for meme:504_batch_2
+There are only two genders Female Male
+=====================
+Generating for meme:505_batch_2
+1, 2, 3
+=====================
+Generating for meme:507_batch_2
+1. Smears, 2. Loaded Language, 3. Whataboutism, 4. Thought-terminating cliché
+=====================
+Generating for meme:511_batch_2
+There are only two genders Female Male
+=====================
+Generating for meme:513_batch_2
+Appeal to (Strong) Emotions
+                Name calling/Labeling
+=====================
+Generating for meme:514_batch_2
+2
+                Appeal to (Strong) Emotions
+=====================
+Generating for meme:515_batch_2
+11
+=====================
+Generating for meme:516_batch_2
+There are only two genders: Female and Male
+=====================
+Generating for meme:517_batch_2
+There are only two genders
+=====================
+Generating for meme:518_batch_2
+[Loaded Language (Smears), Loaded Language]
+=====================
+Generating for meme:707_batch_2
+2
+=====================
+Generating for meme:708_batch_2
+11 (Flag-waving, Name calling/Labeling, Smears, Thought-terminating cliché, Loaded Language)
+=====================
+Generating for meme:711_batch_2
+Exaggeration/Minimisation
+=====================
+Generating for meme:712_batch_2
+2
+=====================
+Generating for meme:714_batch_2
+There are only two genders Female Male
+=====================
+Generating for meme:728_batch_2
+Appeal to emotion
+=====================
+Generating for meme:729_batch_2
+Appeal to (Strong) Emotions, Loaded Language, Smears
+=====================
+Generating for meme:730_batch_2
+[ ] 
+=====================
+Generating for meme:731_batch_2
+1
+=====================
+Generating for meme:734_batch_2
+There are only two genders Female Male
+=====================
+Generating for meme:737_batch_2
+Appeal to (Strong) Emotions
+=====================
+Generating for meme:739_batch_2
+There are only two genders female male
+=====================
+Generating for meme:742_batch_2
+Appeal to (Strong) Emotions
+                Loaded Language
+                Misrepresentation of Someone's Position (Straw Man)
+                Slogans
+=====================
+Generating for meme:743_batch_2
+There are only two genders Female Male
+=====================
+Generating for meme:745_batch_2
+11
+=====================
+Generating for meme:747_batch_2
+100
+=====================
+Generating for meme:749_batch_2
+Exaggeration/Minimisation
+                Name calling/Labeling
+=====================
+Generating for meme:751_batch_2
+[ ] Appeal to (Strong) Emotions
+                [ ] Loaded Language
+                [ ] Smears
+=====================
+Generating for meme:752_batch_2
+There are only two genders female and male
+=====================
+Generating for meme:755_batch_2
+There are ONLY two genders: Female Male
+=====================
+Generating for meme:756_batch_2
+[Smears
+=====================
+Generating for meme:757_batch_2
+1, 2, 3, 4, 5
+=====================
+Generating for meme:760_batch_2
+['Appeal to (Strong) Emotions']
+=====================
+Generating for meme:761_batch_2
+2 Appeal to (Strong) Emotions
+=====================
+Generating for meme:762_batch_2
+Appeal to (Strong) Emotions
+                Appeal to (Weak) Emotions
+=====================
+Generating for meme:764_batch_2
+Appeal to (Strong) Emotions, Name calling/Labeling, Reductio ad hitlerum, Thought-terminating cliché
+=====================
+Generating for meme:768_batch_2
+Appeal to (Strong) Emotions
+=====================
+Generating for meme:769_batch_2
+9 Appeal to (Strong) Emotions
+=====================
